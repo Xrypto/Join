@@ -1,8 +1,4 @@
-<div style="padding-top:100.000%;position:relative;">
-<iframe src="https://gifer.com/embed/DUwB" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen>
-</iframe>
-</div>
-
+<img src="DUwB.gif">
 
 
 
@@ -22,4 +18,6 @@
 
 
 # 7ad0d66e169e5180f41cdffec332b56a
+
+# 46.30.213.117
 
